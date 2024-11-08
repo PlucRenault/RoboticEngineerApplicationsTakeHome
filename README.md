@@ -86,17 +86,5 @@ Run a quick pick-and-place test to ensure alignment accuracy. The robot should r
 
 ## Challenges
 
-List any challenges or obstacles you encountered while completing the tasks, and how you overcame them. 
 
----
-
-## Conclusion
-
-Summarize the approach taken to solve the tasks, the key takeaways, and any suggestions for future improvements or extensions.
-
----
-
-## Additional Notes
-
-If you have any additional information, such as further clarifications or improvements you would suggest, include them here.
 
