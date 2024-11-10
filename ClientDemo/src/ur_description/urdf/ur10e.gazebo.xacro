@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<xacro:robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="ur10e">
+
+  <!-- Robot description for Gazebo -->
+  <xacro:include filename="$(find ur_description)/urdf/ur10e.xacro"/>
+
+  <!-- Gazebo-specific plugin -->
+  <gazebo>
+    <plugin name="gazebo_ros_control" filename="libgazebo_ros_control.so">
+      <robotNamespace>ur10e</robotNamespace>
+    </plugin>
+  </gazebo>
+
+</xacro:robot>

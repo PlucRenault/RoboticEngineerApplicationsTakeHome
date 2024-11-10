@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<xacro:robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+  <!-- Gripper link -->
+  <link name="gripper_link">
+    <visual>
+      <geometry>
+        <box size="0.1 0.1 0.05"/>
+      </geometry>
+      <material name="gray"/>
+    </visual>
+    <collision>
+      <geometry>
+        <box size="0.1 0.1 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+
+  <!-- Gripper joint (affixed to the robot arm) -->
+  <joint name="gripper_joint" type="revolute">
+    <parent link="wrist_3_link"/>  <!-- Example: Attaching to a wrist link -->
+    <child link="gripper_link"/>
+    <axis xyz="0 0 1"/>
+    <limit effort="5.0" velocity="1.0" lower="0" upper="1.0"/>
+  </joint>
+
+</xacro:robot>
