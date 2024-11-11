@@ -121,6 +121,6 @@ I wanted to provide some clarification regarding the demo code in the client sec
 
 That being said, I thoroughly enjoyed the process and the valuable learning experience this test provided. I would truly appreciate an opportunity to prove myself further and demonstrate my ability to adapt and overcome challenges. I am passionate about learning new things, and I’m excited about the possibility of growing with your team.
 
-In situations like this, I typically perform better in a team environment, as the issue is likely something I’ve overlooked. Normally, by discussing the challenge with a team member for just a few minutes, we can quickly find a solution.
+In collaborative settings, I usually resolve issues like this quickly—often by discussing the details with a team member, which can provide fresh perspectives and efficient solutions.
 
 Thank you for your understanding, and I remain committed to delivering high-quality work. If there's any additional information or context needed, please feel free to reach out.
