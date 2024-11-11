@@ -117,7 +117,7 @@ These safeguards and features allow cobots to operate safely in collaborative en
 
 ## Program
 
-I wanted to provide some clarification regarding the demo code in the client section of the assessment. Unfortunately, I encountered technical difficulties while trying to set up the ROS 2 environment on my system. Despite my efforts, I was unable to get the environment fully operational, and as a result, the code in the client demo section has not been tested.
+I wanted to clarify the current state of the demo code in the client section of the assessment. Unfortunately, I encountered technical difficulties while setting up the ROS 2 environment on my system. Despite my best efforts, I was unable to get the environment fully operational, so the code in the client demo section remains untested or working. This is especially frustrating, as I was looking forward to the Python portion of the test—it would have been a fun part of the exam, and I was eager to leverage the simulation engine for a quick iteration process.
 
 That being said, I thoroughly enjoyed the process and the valuable learning experience this test provided. I would truly appreciate an opportunity to prove myself further and demonstrate my ability to adapt and overcome challenges. I am passionate about learning new things, and I’m excited about the possibility of growing with your team.
 
